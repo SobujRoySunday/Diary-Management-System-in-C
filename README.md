@@ -1,41 +1,32 @@
-# Project Name
+# Diary Management System
 
-Welcome to the Project Name repository! This project is a [brief description of your project's purpose or functionality].
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
+![Contributors](https://img.shields.io/badge/Contributors-Sorbopriyo_Roy,_Rima_Raj,_Puja_Kumari,_Gulshan_Kumar,_Aman_Kumar_Patwa-orange)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
+This is a Diary Management System designed to help users maintain their personal diaries securely. Each diary can only be accessed by its respective author. The system stores all data in a file system in binary format, preventing unauthorized access to the diary contents. 
 
-## Introduction
+## Features
 
-Provide a brief introduction to your project, highlighting its main features, goals, or any unique aspects. You can include any relevant background information or context that will help users understand the purpose of the project.
+1. **New User Registration**: Users can register and create their accounts to start using the diary management system.
+2. **User Authorization**: Users can log in using their registered username and password.
+3. **Writing New Diary**: Logged-in users can write new diary entries by providing a diary name and content.
+4. **Reading Old Diaries**: Users can view their previously written diaries.
+5. **Querying All Diaries**: Users can search and view all their diaries in a single list.
 
-## Installation
+> Note: This program has been designed while considering various edge cases, but there might still be some bugs present.
 
-Outline the steps required to install and set up your project locally. Include any dependencies or prerequisites that users need to have installed on their system. Provide clear and concise instructions so that users can quickly get your project up and running.
+## Getting Started
 
-```bash
-# Example installation instructions
-$ git clone https://github.com/your-username/project-name.git
-$ cd project-name
-$ npm install
-```
+To use this Diary Management System, follow the instructions below:
 
-## Usage
-
-Explain how users can use your project. Provide examples or code snippets to demonstrate its functionality. Describe any available command-line options, configuration settings, or environment variables that users should be aware of.
-
-```bash
-# Example usage instructions
-$ npm start
-```
+1. Clone the repository to your local machine.
+2. Compile and run the program using a C compiler.
+3. Follow the authentication prompts to sign in or sign up for a new account.
+4. Once logged in, you can use the main menu options to manage your diaries.
 
 ## Contributors
 
-We would like to thank the following contributors for their valuable contributions to this project:
+This project was contributed to by the following individuals:
 
 - Sorbopriyo Roy
 - Rima Raj
@@ -43,10 +34,8 @@ We would like to thank the following contributors for their valuable contributio
 - Gulshan Kumar
 - Aman Kumar Patwa
 
-If you are interested in contributing to the project, please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
 ## License
 
-Specify the license under which your project is distributed. For example:
+This Diary Management System is open-source and available under the [MIT License](LICENSE). Feel free to modify and use the code as per your requirements.
 
-This project is licensed under the [MIT License](LICENSE).
+> **Note:** This documentation provides an overview of the Diary Management System and assumes that you are familiar with C programming language and its compilation process. For more detailed instructions, please refer to the code comments and consult the C programming resources.
