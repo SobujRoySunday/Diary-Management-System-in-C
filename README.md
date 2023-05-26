@@ -5,6 +5,12 @@
 
 This is a Diary Management System designed to help users maintain their personal diaries securely. Each diary can only be accessed by its respective author. The system stores all data in a file system in binary format, preventing unauthorized access to the diary contents. 
 
+## How to use it?
+
+1. Download the dms.exe file on your machine
+2. Store it somewhere in a folder
+3. Run it.
+
 ## Features
 
 1. **New User Registration**: Users can register and create their accounts to start using the diary management system.
