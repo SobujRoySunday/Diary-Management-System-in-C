@@ -42,6 +42,6 @@ This project was contributed to by the following individuals:
 
 ## License
 
-This Diary Management System is open-source and available under the [MIT License](LICENSE). Feel free to modify and use the code as per your requirements.
+This Diary Management System is open-source. Feel free to modify and use the code as per your requirements.
 
 > **Note:** This documentation provides an overview of the Diary Management System and assumes that you are familiar with C programming language and its compilation process. For more detailed instructions, please refer to the code comments and consult the C programming resources.
